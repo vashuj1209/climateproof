@@ -21,5 +21,4 @@ Receipts are local and replaceable, not blockchain anchors or trusted timestamps
 ## Next
 Evaluate an AI detector on documented data, measure false positives, add sensor/unit metadata, test and deploy the registry to a test network, and connect transaction verification to the dashboard.
 
-## Live demo
-https://climateproof-vaishali.arcane-field-4364.chatgpt.site
+
